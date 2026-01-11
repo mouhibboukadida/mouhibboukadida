@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Mouhib
 
-<!--
-**mouhibboukadida/mouhibboukadida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student & Frontend Developer.  
+💻 Building modern web interfaces with React.  
+🎨 Learning UI/UX (Figma → HTML/CSS).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+- Freelance & side projects.
+- React-based projects.
+- Daily GitHub projects to improve consistency.
+- Improving UI/UX skills and clean design thinking.
+
+---
+
+### 🛠 Tools & Technologies
+**Frontend**
+- HTML, CSS, JavaScript.  
+- React, Vite.  
+
+**Design**
+- Figma.  
+
+**Tools**
+- Git, GitHub.  
+- VS Code. 
+
+---
+
+### 📫 How to reach me
+- 📧 Email: mouhibboukadida_01@outlook.com  
+- 💼 LinkedIn: www.linkedin.com/in/mouhib-bougadida-8181b3261
+
+---
+
+> Always learning. Always building.  
+> Clean UI, clean code, real projects.
+
